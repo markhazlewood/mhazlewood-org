@@ -9,4 +9,4 @@
 * From /www/
   * `bower install`
   * `compass compile`
-* You're done!
+* You're done! Open `index.html`, be amazed. Eventually use gulp for all of this crap + deploying it to FTP.
