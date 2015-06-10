@@ -1,0 +1,25 @@
+{
+  "name": "mhazlewood-org",
+  "version": "0.0.1",
+  "description": "Source for my personal portfolio site.",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhazlewood/mhazlewood-org.git"
+  },
+  "author": "Mark Hazlewood",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/markhazlewood/mhazlewood-org/issues"
+  },
+  "homepage": "https://github.com/markhazlewood/mhazlewood-org",
+  "dependencies" :
+  {
+     "bower" : ">=1.4.1",
+     "gulp" : ">=3.8.11",
+     "npm" : ">=2.5.1"
+  }
+}
