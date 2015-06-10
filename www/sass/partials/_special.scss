@@ -1,0 +1,14 @@
+
+
+// A class to hide text using the method discussed here:
+//  http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
+.hide-text
+{
+    @include hide-text();
+}
+
+.fixed-to-top
+{
+    position: fixed;
+    top: 0;
+}
