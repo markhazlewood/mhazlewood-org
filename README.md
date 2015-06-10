@@ -1,7 +1,7 @@
 # mhazlewood-org
 
 ## Install Instructions
-* Get source
+* Clone source
 * Verify Ruby and Node.js are installed
 * From /
   * `bundle install`
@@ -9,3 +9,4 @@
 * From /www/
   * `bower install`
   * `compass compile`
+* You're done!
