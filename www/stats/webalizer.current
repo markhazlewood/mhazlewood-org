@@ -1,0 +1,467 @@
+# Webalizer V2.01-10 Incremental Data - 08/07/2015 02:34:09
+2015 8 7 2 34 9
+235 184 56 57 13 16 84015451 79 33 0
+3 1 50 1 7
+18 15 15190519 8 8 4
+43 19 953711 14 28 5
+18 11 579013 9 9 5
+28 21 30086462 10 10 5
+11 7 14876039 9 7 5
+114 108 22265844 7 15 7
+3 3 63863 3 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 8480 1
+2 2 53521 1
+1 1 10342 1
+3 1 9247 2
+5 3 194276 3
+32 8 15030803 21
+2 2 14478652 1
+2 1 14470939 0
+54 48 31000355 29
+52 50 3642831 4
+7 0 1921 6
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 8480 1
+52 49 3708789 3
+5 5 486178 1
+4 4 137189 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 522 0
+8 7 761957 3
+2 1 10969 0
+0
+0
+0
+184
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+40
+0
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 10 0 177830 0 0
+/
+0 23 0 178080 27 2
+/img/portfolio/mockups/wireframe/thumbs/xF_webDisplay002.png
+1 2 0 320092 0 0
+/img/portfolio/mockups/wireframe/thumbs/IMAG0945.png
+1 2 0 314162 0 0
+/fonts/fontawesome-webfont.woff
+0 2 0 88864 0 0
+/img/portfolio/mockups/wireframe/thumbs/xF_webDisplay001.png
+1 2 0 332036 0 0
+/img/portfolio/mockups//wireframe/thumbs/radarStatus_zoomToSensor.png
+1 2 0 162268 0 0
+/img/portfolio/mockups/wireframe/thumbs/20_Dashboard.png
+1 2 0 145492 0 0
+/js/jquery.grid-a-licious.js
+0 3 0 37620 0 0
+/img/portfolio/research/thumbs/scenario002.png
+1 2 0 235808 0 0
+/img/portfolio/mockups/wireframe/thumbs/00_RegionLayout.png
+1 2 0 393328 0 0
+/js/jquery.pin.js
+0 7 0 28511 0 0
+/img/portfolio/mockups/wireframe/thumbs/006_trendAsCallout.png
+1 2 0 54744 0 0
+/img/portfolio/research/thumbs/scenario001.png
+1 3 0 361251 0 0
+/contact.html
+0 7 0 72394 1 1
+/js/kinetic-v5.0.1.min.js
+0 6 0 653832 0 0
+/img/portfolio/mockups/wireframe/004.png
+1 1 0 103143 0 0
+/img/portfolio/research/thumbs/workflow001.png
+1 2 0 72622 0 0
+/img/portfolio/usabilityTesting/thumbs/gbsaa_ut_002.png
+1 2 0 112390 0 0
+/report.docx
+0 5 0 72350860 0 0
+/img/portfolio/research/thumbs/LSTAR_mm_gui.png
+1 2 0 98652 0 0
+/img/portfolio/research/thumbs/criticalPath.png
+1 2 0 26780 0 0
+/img/portfolio/usabilityTesting/thumbs/xf_lstarDisplay001.png
+1 2 0 270610 0 0
+/img/portfolio/research/thumbs/persona005.png
+1 2 0 175040 0 0
+/img/portfolio/usabilityTesting/testPlan004.png
+1 1 0 10202 0 0
+/img/portfolio/usabilityTesting/thumbs/gbsaa_ut_001.png
+1 2 0 122914 0 0
+/img/portfolio/research/thumbs/persona004.png
+1 2 0 187498 0 0
+/img/portfolio/usabilityTesting/testPlan003.png
+1 1 12338 45041 0 0
+/img/portfolio/mockups/wireframe/001.png
+1 1 0 96186 0 0
+/img/portfolio/research/thumbs/persona003.png
+1 2 0 182332 0 0
+/img/portfolio/usabilityTesting/thumbs/testPlan004.png
+1 2 0 48600 0 0
+/img/portfolio/research/thumbs/vision.png
+1 2 0 77014 0 0
+/img/portfolio/mockups/wireframe/thumbs/004.png
+1 2 0 89388 0 0
+/img/portfolio/mockups/wireframe/thumbs/layout003.png
+1 2 0 82582 0 0
+/img/portfolio/research/thumbs/persona002.png
+1 2 0 171410 0 0
+/img/portfolio/usabilityTesting/thumbs/testPlan003.png
+1 2 0 176354 0 0
+/ux.html
+0 8 0 263648 1 2
+/img/portfolio/research/thumbs/IMAG0713.png
+1 2 0 744234 0 0
+/img/portfolio/research/vision.png
+1 1 0 184262 0 0
+/js/bootstrap.min.js
+0 7 0 204197 0 0
+/img/portfolio/research/thumbs/persona001.png
+1 2 0 143320 0 0
+/img/portfolio/usabilityTesting/thumbs/testPlan002.png
+1 2 0 41196 0 0
+/img/portfolio/mockups/wireframe/thumbs/10_trendsView.png
+1 2 0 78130 0 0
+/credentials.html
+0 8 0 109648 1 0
+/img/portfolio/research/thumbs/IMAG0712.png
+1 2 0 285962 0 0
+/img/portfolio/mockups/wireframe/thumbs/002.png
+1 2 0 99080 0 0
+/img/portfolio/usabilityTesting/thumbs/testPlan001.png
+1 2 0 60756 0 0
+/js/uxScripts.js
+0 5 0 20910 0 0
+/js/imageLightboxUtils.js
+0 3 0 7302 0 0
+/img/portfolio/mockups/wireframe/thumbs/001.png
+1 2 0 79520 0 0
+/img/portfolio/research/thumbs/xF_core_highLevel_sketch.png
+1 2 0 112078 0 0
+/img/portfolio/research/thumbs/objectMapping.png
+1 2 0 47608 0 0
+/js/imagelightbox.min.js
+0 4 0 18840 0 0
+/css/screen.css
+0 9 0 3150828 0 0
+/img/portfolio/mockups/wireframe/thumbs/20_eventsView.png
+1 2 0 139388 0 0
+/fonts/fontawesome-webfont.ttf
+0 1 0 80652 0 0
+/img/portfolio/mockups/wireframe/thumbs/00_mainDashboard.png
+1 2 0 70434 0 0
+# End Of Table - urls
+# -sites- (monthly)
+104.197.85.248
+0 1 0 415 1 1438426304
+/
+104.247.39.34
+0 52 49 3633584 2 1438858432
+/credentials.html
+220.181.108.89
+0 1 1 8480 1 1438812802
+/
+104.197.59.139
+0 1 0 415 1 1438685437
+/
+66.249.64.216
+0 1 0 767 0 0
+-
+66.249.64.226
+0 3 3 376355 1 1438900425
+/
+179.60.146.201
+0 1 0 767 0 0
+-
+192.99.107.40
+0 2 0 512 1 1438614639
+/
+123.125.71.108
+0 1 0 767 0 0
+-
+162.222.182.151
+0 1 0 415 1 1438598995
+/
+52.1.252.133
+0 1 1 8480 1 1438535181
+/
+184.154.36.173
+0 19 17 781519 2 1438590814
+/contact.html
+184.154.36.174
+0 15 14 15078384 1 1438677430
+/
+184.154.36.175
+0 11 10 582482 1 1438418040
+/contact.html
+184.154.36.176
+0 9 7 14557970 2 1438850063
+/contact.html
+82.146.36.157
+0 1 1 8480 1 1438583146
+/
+157.55.39.115
+0 1 0 767 0 0
+-
+193.201.224.176
+0 20 0 0 1 1438492225
+-
+188.165.15.181
+0 1 0 767 0 0
+-
+151.80.31.129
+0 3 3 27302 3 1438914849
+/contact.html
+157.55.39.137
+0 1 1 10202 0 0
+-
+157.55.39.138
+0 1 0 767 0 0
+-
+207.46.13.73
+0 1 1 29171 0 0
+-
+192.99.150.120
+0 1 1 0 1 1438836021
+/
+157.55.39.157
+0 1 1 17783 0 0
+-
+94.22.47.242
+0 1 0 261 0 0
+-
+180.76.15.146
+0 1 1 14470172 0 0
+-
+180.76.15.147
+0 1 1 8480 1 1438400410
+/
+206.222.196.182
+0 50 49 3708277 1 1438873964
+/ux.html
+123.125.71.20
+0 1 1 350092 0 0
+-
+123.125.71.21
+0 1 1 80652 0 0
+-
+50.16.139.150
+0 1 1 8480 1 1438785115
+/
+123.125.71.27
+0 1 1 4073 0 0
+-
+180.76.15.153
+0 1 1 8480 1 1438679711
+/
+91.212.124.28
+0 1 1 8480 1 1438906250
+/
+180.76.15.156
+0 1 1 14470172 0 0
+-
+146.148.53.15
+0 1 0 415 1 1438771917
+/
+123.125.71.39
+0 1 1 350092 0 0
+-
+123.125.71.49
+0 1 1 29171 0 0
+-
+77.75.77.95
+0 2 1 121184 0 0
+-
+123.125.71.51
+0 1 1 17783 0 0
+-
+123.125.71.53
+0 1 1 17783 0 0
+-
+123.125.71.55
+0 1 1 108972 0 0
+-
+123.125.71.82
+0 1 1 32956 1 1438493306
+/ux.html
+104.131.40.119
+0 1 0 0 1 1438658231
+-
+142.4.214.124
+0 1 0 261 0 0
+-
+68.180.229.173
+0 2 1 14470939 0 0
+-
+220.181.108.109
+0 1 1 15664 1 1438449989
+/credentials.html
+220.181.108.121
+0 1 1 4710 0 0
+-
+220.181.108.122
+0 1 1 8480 1 1438534064
+/
+80.83.237.107
+0 1 0 767 1 1438749979
+-
+157.55.39.42
+0 3 2 359339 1 1438661366
+/
+220.181.108.161
+0 1 1 2434 0 0
+-
+1.47.98.163
+0 1 1 45041 0 0
+-
+31.129.248.85
+0 1 0 261 0 0
+-
+157.55.39.90
+0 2 1 185029 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+151.80.31.129
+0 1 1 10342 1 1438914849
+/contact.html
+91.212.124.28
+0 1 1 8480 1 1438906250
+/
+1.47.98.163
+0 1 1 45041 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 102
+http://mhazlewood.org/ux.html
+1 42
+http://mhazlewood.org/css/font-awesome.min.css
+1 1
+http://www.mhazlewood.org/ux.html
+1 43
+http://www.mhazlewood.org/
+1 5
+Google
+2 21
+http://mhazlewood.org/
+1 12
+http://www.google.com/url
+1 20
+http://mhazlewood.org/credentials.html
+1 5
+http://www.mhazlewood.org/css/font-awesome.min.css
+1 1
+http://www.domaintuno.com/d/mhazlewood.org
+1 1
+http://dialogsearch.com/webmasters
+0 1
+https://www.google.co.th/
+1 1
+http://mhazlewood.org/default.php
+1 1
+# End Of Table - referrers
+# -agents- 
+NerdyBot
+0 4
+Googlebot/2.1
+0 4
+Netscape 6 compatible
+2 106
+NING/1.0
+0 1
+Mozilla/5.0
+0 106
+Baiduspider/2.0
+0 18
+MSIE 6.0
+0 1
+SeznamBot/3.2
+0 2
+meanpathbot/1.0
+0 2
+bingbot/2.0
+0 10
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 34
+DialogSearch.com Bot 1.0;http://dialogsearch.com/webmasters
+0 1
+DomainTunoCrawler/0.1
+0 1
+MJ12bot/v1.4
+0 3
+AhrefsBot/5.0
+0 4
+Yahoo! Slurp
+0 2
+MSIE 9.0
+0 20
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
